@@ -86,6 +86,7 @@ button:hover {
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 2em;
+    background-color: white;
 }
 
 .card-container {
