@@ -85,8 +85,8 @@ button:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 2em;
     background-color: bisque;
+    font-size: 35px;
     
 }
 
