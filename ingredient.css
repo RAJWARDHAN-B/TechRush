@@ -87,7 +87,7 @@ button:hover {
     justify-content: center;
     margin-top: 2em;
     background-color: white;
-    height:200px;
+    font-size:20px;
 }
 
 .card-container {
